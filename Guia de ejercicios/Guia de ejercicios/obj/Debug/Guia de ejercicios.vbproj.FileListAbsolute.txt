@@ -1,0 +1,11 @@
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\bin\Debug\Guia de ejercicios.exe.config
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\bin\Debug\Guia de ejercicios.exe
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\bin\Debug\Guia de ejercicios.pdb
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\bin\Debug\Guia de ejercicios.xml
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\obj\Debug\Guia de ejercicios.vbproj.AssemblyReference.cache
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\obj\Debug\Guia_de_ejercicios.Resources.resources
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\obj\Debug\Guia de ejercicios.vbproj.GenerateResource.cache
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\obj\Debug\Guia de ejercicios.vbproj.CoreCompileInputs.cache
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\obj\Debug\Guia de ejercicios.exe
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\obj\Debug\Guia de ejercicios.xml
+C:\Users\Rudy2\Desktop\Bloque 1 - Actividad 1 - Programación\Guia de ejercicios\Guia de ejercicios\obj\Debug\Guia de ejercicios.pdb
